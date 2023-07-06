@@ -1,5 +1,5 @@
 # Sobre Mim
-Olá! Meu nome é Samuel. Sou um iniciante da programação e estou apaixonado por aprender novas tecnologias.
+Olá! Meu nome é Samuel. Sou um iniciante da programação e estou em busca de aprender novas tecnologias.
 
 
 # Habilidades
