@@ -17,7 +17,7 @@ LinkedIn: www.linkedin.com/in/samuel-d-avila-tonial-32092a268
 
 # Principais Projetos
 
-Gerador de QR Codes em massa usando links salvos em planilhas do excel.  
+[Gerador de QR Codes](https://github.com/SLUK06/Qrcode-Excel-Generator) em massa usando links salvos em planilhas do excel.  
 
 
 <!---
