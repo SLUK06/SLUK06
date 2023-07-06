@@ -1,5 +1,5 @@
-Sobre Mim
-  Olá! Meu nome é Samuel. Sou um iniciante da programação e estou apaixonado por aprender novas tecnologias.
+<h1>Sobre Mim</h1>
+  <p>Olá! Meu nome é Samuel. Sou um iniciante da programação e estou apaixonado por aprender novas tecnologias.</p>
 
 Habilidades
   Linguagens de Programação: C, HTML, CSS, PYTHON.
