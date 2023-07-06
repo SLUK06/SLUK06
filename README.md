@@ -4,8 +4,8 @@ Olá! Meu nome é Samuel. Sou um iniciante da programação e estou apaixonado p
 
 # Habilidades
 
-Linha 1  Linguagens de Programação: C, HTML, CSS, PYTHON.
-Linha 2  Experiência: Desenvolvimento de sites estáticos usando HTML e CSS.
+Line 1  Linguagens de Programação: C, HTML, CSS, PYTHON.
+Line 2  Experiência: Desenvolvimento de sites estáticos usando HTML e CSS.
 
 
 
