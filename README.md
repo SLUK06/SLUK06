@@ -5,7 +5,7 @@ Olá! Meu nome é Samuel. Sou um iniciante da programação e estou em busca de 
 # Habilidades
 
 Linguagens:
-  C, HTML, CSS, JAVASCRIPT.  
+  C, HTML, CSS, JAVASCRIPT, PHP.  
 Experiência: 
   Desenvolvimento de sites estáticos usando HTML e CSS.  
   Desenvolvimento de aplicativos mobile usando REACT NATIVE. 
