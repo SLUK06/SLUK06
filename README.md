@@ -5,6 +5,8 @@ Olá! Meu nome é Samuel. Sou um iniciante da programação e estou em busca de 
 ## ⭐ Exp:  
 Desenvolvimento de WebSites usando HTML, CSS e PHP. 
 <br> 
+Integração de sistema Web ReactJs e aplicativo mobile React-Native, utilizando api Rest NodeJs.
+<br> 
 Desenvolvimento de aplicativos mobile usando REACT NATIVE. 
 <br><br>
 
