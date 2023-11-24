@@ -1,21 +1,23 @@
 # 💫 About Me:
 Olá! Meu nome é Samuel. Sou um iniciante da programação e estou em busca de aprender novas tecnologias.
-<br><br><br>
-#Exp: 
-<br>  
+<br><br>
+
+# Exp:  
 Desenvolvimento de WebSites usando HTML, CSS e PHP. 
 <br> 
 Desenvolvimento de aplicativos mobile usando REACT NATIVE. 
-<br><br><br><br>
-# Contato
 <br><br>
+
+# Contato
 E-mail: lokosamuca23@gmail.com  
 <br>
 LinkedIn: www.linkedin.com/in/samuel-d-avila-tonial-32092a268  
 <br><br><br>
+
 # Principais Projetos
-<br><br>
-[Gerador de QR Codes](https://github.com/SLUK06/Qrcode-Excel-Generator) em massa usando links salvos em planilhas do excel.  <br><br><br><br>
+[Gerador de QR Codes](https://github.com/SLUK06/Qrcode-Excel-Generator) em massa usando links salvos em planilhas do excel.
+<br><br><br><br>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-d-avila-tonial-32092a268/)
 
