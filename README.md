@@ -10,9 +10,6 @@ Integração de sistema Web ReactJs e aplicativo mobile React-Native, utilizando
 Desenvolvimento de aplicativos mobile usando REACT NATIVE. 
 <br><br>
 
-## ✏ Principais Projetos
-[Gerador de QR Codes](https://github.com/SLUK06/Qrcode-Excel-Generator) em massa usando links salvos em planilhas do excel.
-<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-d-avila-tonial-32092a268/)
