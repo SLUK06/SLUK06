@@ -8,12 +8,6 @@ Desenvolvimento de WebSites usando HTML, CSS e PHP.
 Desenvolvimento de aplicativos mobile usando REACT NATIVE. 
 <br><br>
 
-# Contato
-E-mail: lokosamuca23@gmail.com  
-<br>
-LinkedIn: www.linkedin.com/in/samuel-d-avila-tonial-32092a268  
-<br><br>
-
 # Principais Projetos
 [Gerador de QR Codes](https://github.com/SLUK06/Qrcode-Excel-Generator) em massa usando links salvos em planilhas do excel.
 <br><br>
