@@ -9,7 +9,7 @@ Integração de sistema Web ReactJs e aplicativo mobile React-Native, utilizando
 <br> 
 Desenvolvimento de aplicativos mobile usando REACT NATIVE. 
 <br> 
-Desenvolvimento de apps de realidade aumentada utilizando SDK do Vuforia e Unity3D;.
+Desenvolvimento de apps de realidade aumentada utilizando SDK do Vuforia e Unity3D.
 <br><br>
 
 
