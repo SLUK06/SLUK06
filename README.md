@@ -8,6 +8,8 @@ Desenvolvimento de WebSites usando HTML, CSS, JavaScript e PHP.
 Integração de sistema Web ReactJs e aplicativo mobile React-Native, utilizando api Rest NodeJs.
 <br> 
 Desenvolvimento de aplicativos mobile usando REACT NATIVE. 
+<br> 
+Desenvolvimento de apps de realidade aumentada utilizando SDK do Vuforia e Unity3D;.
 <br><br>
 
 
